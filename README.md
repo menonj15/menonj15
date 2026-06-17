@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jai Menon</h1>
-<h3 align="center">A CS student at Purdue University</h3>
+<h3 align="center">A CS and AI student at Purdue University</h3>
 
 <h4 align="left">I'm an aspiring student hoping to build on my foundational knowledge of computer science</h4>
 <p align="left">
